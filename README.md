@@ -3,6 +3,8 @@
 
 Welcome to my space! I’m Ihejiawunze Norah, a passionate and results-driven professional dedicated to continuous learning and meaningful impact. Whether through technology, education, or community development, I bring creativity, diligence, and purpose to everything I do.
 
+https://github.com/NoremBrain/NoremBrain/commit/0bd08c48a55abfca2388efc9bb1c500c423ac123
+
  About Me
 
 Background 
